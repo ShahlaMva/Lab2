@@ -1,0 +1,5 @@
+C:\Users\Code\Desktop\Tasks\bin\Release\Tasks.exe
+C:\Users\Code\Desktop\Tasks\bin\Release\Tasks.pdb
+C:\Users\Code\Desktop\Tasks\obj\Release\Tasks.csproj.CoreCompileInputs.cache
+C:\Users\Code\Desktop\Tasks\obj\Release\Tasks.exe
+C:\Users\Code\Desktop\Tasks\obj\Release\Tasks.pdb

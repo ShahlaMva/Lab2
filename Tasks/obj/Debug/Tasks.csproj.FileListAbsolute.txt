@@ -1,0 +1,6 @@
+C:\Users\Code\Desktop\Tasks\bin\Debug\Tasks.exe
+C:\Users\Code\Desktop\Tasks\bin\Debug\Tasks.pdb
+C:\Users\Code\Desktop\Tasks\obj\Debug\Tasks.csprojAssemblyReference.cache
+C:\Users\Code\Desktop\Tasks\obj\Debug\Tasks.csproj.CoreCompileInputs.cache
+C:\Users\Code\Desktop\Tasks\obj\Debug\Tasks.exe
+C:\Users\Code\Desktop\Tasks\obj\Debug\Tasks.pdb

@@ -1,0 +1,15 @@
+
+1.Verilmiş cümlədə boşluqların sayını tapan metod yazın.
+
+
+
+2.Söz daxil edilir.Həmin sözün hərfləri arasında  "*" işarəsi qoyaraq həmin sözü qaytaran metod yazın (A*z*e*r*b*a*y*c*a*n*).
+
+
+3.Ədəd daxil edilir.0-dan bu ədədə qədər olan ədədlərdən 3-ə bölünənlərin hasilini,bölünməyənlərin cəmini tapan metod yazın.
+
+
+
+4.Toplama,Çıxma,Vurma,Bölmə metodlari olan sade kalkulyator yazın(kəsr ədədləri,string erroru nəzərə alınmadan).
+
+
